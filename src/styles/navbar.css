@@ -1,0 +1,16 @@
+.navbar{
+    background: #F55A5A;
+    display: flex;
+    gap: 7px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 14.4608px;
+    letter-spacing: -0.075em; 
+  }  
+
+.navbar-logo{
+    height: 24px;
+  }

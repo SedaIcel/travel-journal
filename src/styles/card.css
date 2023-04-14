@@ -1,0 +1,43 @@
+.card{
+    margin: 45px 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.card-image{
+    border-radius: 5px;
+}
+.card-info{
+    display: flex;
+    flex-direction: column;
+    font-size: 10.24px; 
+    letter-spacing: 0.17em;
+}
+
+.card-location{ 
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    gap: 12px;
+}
+
+.card-adress{
+    text-decoration-line: underline;
+    
+}
+
+.card-title{
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+
+}
+
+.card-date{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.card-description{
+    word-wrap: break-word;
+}
